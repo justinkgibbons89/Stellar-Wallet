@@ -14,3 +14,7 @@ Send lumens between wallets:
 	let wallet2 = Wallet.create("myOtherName")
 	wallet2.pay(wallet.address, 10, "lumens")
 ```
+
+## To Do
+- Public network support
+- Non-native assets
