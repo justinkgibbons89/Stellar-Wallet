@@ -1,0 +1,19 @@
+{
+  "name": "wallet",
+  "version": "1.0.0",
+  "description": "stellar wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "practice": "node practice.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "stellar"
+  ],
+  "author": "justin",
+  "license": "ISC",
+  "dependencies": {
+    "stellar-sdk": ">=3.3.0"
+  }
+}
